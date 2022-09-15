@@ -1,0 +1,37 @@
+F:\Documents\Lập Trình Giao Diện\sources\09_HuynhKimLoan_1951052102\09_HuynhKimLoan_1951052102\bin\Debug\09_HuynhKimLoan_1951052102.exe.config
+F:\Documents\Lập Trình Giao Diện\sources\09_HuynhKimLoan_1951052102\09_HuynhKimLoan_1951052102\bin\Debug\09_HuynhKimLoan_1951052102.exe
+F:\Documents\Lập Trình Giao Diện\sources\09_HuynhKimLoan_1951052102\09_HuynhKimLoan_1951052102\bin\Debug\09_HuynhKimLoan_1951052102.pdb
+F:\Documents\Lập Trình Giao Diện\sources\09_HuynhKimLoan_1951052102\09_HuynhKimLoan_1951052102\obj\Debug\09_HuynhKimLoan_1951052102.csproj.AssemblyReference.cache
+F:\Documents\Lập Trình Giao Diện\sources\09_HuynhKimLoan_1951052102\09_HuynhKimLoan_1951052102\obj\Debug\_09_HuynhKimLoan_1951052102.Form1.resources
+F:\Documents\Lập Trình Giao Diện\sources\09_HuynhKimLoan_1951052102\09_HuynhKimLoan_1951052102\obj\Debug\_09_HuynhKimLoan_1951052102.Form2.resources
+F:\Documents\Lập Trình Giao Diện\sources\09_HuynhKimLoan_1951052102\09_HuynhKimLoan_1951052102\obj\Debug\_09_HuynhKimLoan_1951052102.FormStart.resources
+F:\Documents\Lập Trình Giao Diện\sources\09_HuynhKimLoan_1951052102\09_HuynhKimLoan_1951052102\obj\Debug\_09_HuynhKimLoan_1951052102.Properties.Resources.resources
+F:\Documents\Lập Trình Giao Diện\sources\09_HuynhKimLoan_1951052102\09_HuynhKimLoan_1951052102\obj\Debug\09_HuynhKimLoan_1951052102.csproj.GenerateResource.cache
+F:\Documents\Lập Trình Giao Diện\sources\09_HuynhKimLoan_1951052102\09_HuynhKimLoan_1951052102\obj\Debug\09_HuynhKimLoan_1951052102.csproj.CoreCompileInputs.cache
+F:\Documents\Lập Trình Giao Diện\sources\09_HuynhKimLoan_1951052102\09_HuynhKimLoan_1951052102\obj\Debug\09_HuynhKimLoan_1951052102.exe
+F:\Documents\Lập Trình Giao Diện\sources\09_HuynhKimLoan_1951052102\09_HuynhKimLoan_1951052102\obj\Debug\09_HuynhKimLoan_1951052102.pdb
+D:\LTGD\09_HuynhKimLoan_1951052102\09_HuynhKimLoan_1951052102\bin\Debug\09_HuynhKimLoan_1951052102.exe.config
+D:\LTGD\09_HuynhKimLoan_1951052102\09_HuynhKimLoan_1951052102\bin\Debug\09_HuynhKimLoan_1951052102.exe
+D:\LTGD\09_HuynhKimLoan_1951052102\09_HuynhKimLoan_1951052102\bin\Debug\09_HuynhKimLoan_1951052102.pdb
+D:\LTGD\09_HuynhKimLoan_1951052102\09_HuynhKimLoan_1951052102\obj\Debug\09_HuynhKimLoan_1951052102.csproj.AssemblyReference.cache
+D:\LTGD\09_HuynhKimLoan_1951052102\09_HuynhKimLoan_1951052102\obj\Debug\_09_HuynhKimLoan_1951052102.Form1.resources
+D:\LTGD\09_HuynhKimLoan_1951052102\09_HuynhKimLoan_1951052102\obj\Debug\_09_HuynhKimLoan_1951052102.Form2.resources
+D:\LTGD\09_HuynhKimLoan_1951052102\09_HuynhKimLoan_1951052102\obj\Debug\_09_HuynhKimLoan_1951052102.FormStart.resources
+D:\LTGD\09_HuynhKimLoan_1951052102\09_HuynhKimLoan_1951052102\obj\Debug\_09_HuynhKimLoan_1951052102.Properties.Resources.resources
+D:\LTGD\09_HuynhKimLoan_1951052102\09_HuynhKimLoan_1951052102\obj\Debug\09_HuynhKimLoan_1951052102.csproj.GenerateResource.cache
+D:\LTGD\09_HuynhKimLoan_1951052102\09_HuynhKimLoan_1951052102\obj\Debug\09_HuynhKimLoan_1951052102.csproj.CoreCompileInputs.cache
+D:\LTGD\09_HuynhKimLoan_1951052102\09_HuynhKimLoan_1951052102\obj\Debug\09_HuynhKimLoan_1951052102.exe
+D:\LTGD\09_HuynhKimLoan_1951052102\09_HuynhKimLoan_1951052102\obj\Debug\09_HuynhKimLoan_1951052102.pdb
+D:\LTGD\09_HuynhKimLoan_1951052102\09_HuynhKimLoan_1951052102\obj\Debug\_09_HuynhKimLoan_1951052102.FormHuongDan.resources
+D:\09_HuynhKimLoan_1951052102\09_HuynhKimLoan_1951052102\bin\Debug\09_HuynhKimLoan_1951052102.exe.config
+D:\09_HuynhKimLoan_1951052102\09_HuynhKimLoan_1951052102\bin\Debug\09_HuynhKimLoan_1951052102.exe
+D:\09_HuynhKimLoan_1951052102\09_HuynhKimLoan_1951052102\bin\Debug\09_HuynhKimLoan_1951052102.pdb
+D:\09_HuynhKimLoan_1951052102\09_HuynhKimLoan_1951052102\obj\Debug\_09_HuynhKimLoan_1951052102.Form1.resources
+D:\09_HuynhKimLoan_1951052102\09_HuynhKimLoan_1951052102\obj\Debug\_09_HuynhKimLoan_1951052102.Form2.resources
+D:\09_HuynhKimLoan_1951052102\09_HuynhKimLoan_1951052102\obj\Debug\_09_HuynhKimLoan_1951052102.FormHuongDan.resources
+D:\09_HuynhKimLoan_1951052102\09_HuynhKimLoan_1951052102\obj\Debug\_09_HuynhKimLoan_1951052102.FormStart.resources
+D:\09_HuynhKimLoan_1951052102\09_HuynhKimLoan_1951052102\obj\Debug\_09_HuynhKimLoan_1951052102.Properties.Resources.resources
+D:\09_HuynhKimLoan_1951052102\09_HuynhKimLoan_1951052102\obj\Debug\09_HuynhKimLoan_1951052102.csproj.GenerateResource.cache
+D:\09_HuynhKimLoan_1951052102\09_HuynhKimLoan_1951052102\obj\Debug\09_HuynhKimLoan_1951052102.csproj.CoreCompileInputs.cache
+D:\09_HuynhKimLoan_1951052102\09_HuynhKimLoan_1951052102\obj\Debug\09_HuynhKimLoan_1951052102.exe
+D:\09_HuynhKimLoan_1951052102\09_HuynhKimLoan_1951052102\obj\Debug\09_HuynhKimLoan_1951052102.pdb
